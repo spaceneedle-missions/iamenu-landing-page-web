@@ -119,12 +119,13 @@ export default function IAMenuLanding() {
             <div className="relative flex justify-center">
               <div className="absolute inset-0 bg-gradient-to-r from-green-500/20 to-green-600/20 rounded-3xl blur-3xl"></div>
               <Image
-                src="/placeholder.svg?height=600&width=400"
+                src="/placeholder.jpg?height=600&width=400"
                 alt="Interface do WhatsApp com IA Menu"
                 width={400}
                 height={600}
                 className="relative rounded-2xl shadow-2xl"
               />
+             
             </div>
           </div>
         </div>
