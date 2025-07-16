@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'IA Menu',
+  description: 'Assistente de IA que funciona direto no WhatsApp do restaurante. Tire dúvidas sobre o cardápio e faça seu pedido. Sem complicação, só praticidade.',
   generator: 'v0.dev',
 }
 
